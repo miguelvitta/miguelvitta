@@ -1,5 +1,9 @@
 # 💫 About Me:
-I am currently undergoing a career transition, transforming programming from a hobby into my full-time job.<br>I aim to become a Full-Stack Developer, and thus I am now studying mostly the Front-end path, taking an advanced course at DNC Technology and the CS50x Harvard Course too.
+I am currently undergoing a career transition, transforming my passion for programming from a hobby into a full-time profession. My goal is to become a Full-Stack Developer. To achieve this, I am primarily focusing on the Front-end path, and I am currently enrolled in an advanced course at DNC Technology, as well as the CS50x Harvard course. <br> <br>
+
+I am deeply committed to learning not only the technologies I have already started but also exploring new ones. <br> <br>
+
+In addition to my professional pursuits, I am a person of quiet habits who values spending quality time with my wife and children during my free time.
 
 
 ## 🌐 Socials:
