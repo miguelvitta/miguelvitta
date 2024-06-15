@@ -18,8 +18,6 @@ In addition to my professional pursuits, I am a person of quiet habits who value
 ---
 [![](https://visitcount.itsvg.in/api?id=Miguel-V-DF&icon=0&color=12)](https://visitcount.itsvg.in)
 
-![Miguel-V-DF's Stats](https://github-readme-stats.vercel.app/api?username=Miguel-V-DF&theme=dark&show_icons=true&hide_border=false&count_private=true)
-
 ![Miguel-V-DF's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-V-DF&theme=dark&hide_border=false)
 
 ![Miguel-V-DF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-V-DF&theme=dark&show_icons=true&hide_border=false&layout=compact)
