@@ -16,7 +16,6 @@ In addition to my professional pursuits, I am a person of quiet habits who value
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Miguel-V-DF&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ![Miguel-V-DF's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-V-DF&theme=dark&hide_border=false)
 
