@@ -1,3 +1,6 @@
+https://capsule-render.vercel.app/api?type=waving&height=300&color=0d79b1&text=Hi,%20I%20am%20Miguel%20Vitta
+
+
 # About Me:
 I am currently undergoing a career transition, transforming my passion for programming from a hobby into a full-time profession. My goal is to become a Full-Stack Developer. To achieve this, I am primarily focusing on the Front-end path, and I am currently enrolled in an advanced course at DNC Technology, as well as the CS50x Harvard course. <br> <br>
 
