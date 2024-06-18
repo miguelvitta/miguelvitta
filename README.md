@@ -1,4 +1,4 @@
-<img width="41%" height="195px" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0d79b1&text=Hi,%20I%20am%20Miguel%20Vitta />
+<img width="100%" height="195px" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0d79b1&text=Hi,%20I%20am%20Miguel%20Vitta" />
 
 </div>
 
