@@ -1,6 +1,6 @@
 
 # About Me:
-I am in the midst of a career transition, aiming to turn my passion for programming from a hobby into a full-time profession. My goal is to become a Full-Stack Developer. To achieve this, I am currently focusing on Front-end development, learning JavaScript, and beginning my studies on APIs. <br> <br>
+My name is Miguel Vitta and I am in the midst of a career transition, aiming to turn my passion for programming from a hobby into a full-time profession. My goal is to become a Full-Stack Developer. To achieve this, I am currently focusing on Front-end development, learning JavaScript, and beginning my studies on APIs. <br> <br>
 
 I am deeply committed to learning not only the technologies I have already started but also exploring new ones. <br> <br>
 
