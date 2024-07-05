@@ -15,8 +15,6 @@ In addition to my professional pursuits, I am a person of quiet habits who value
 
 ![Miguel-V-DF's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Miguel-V-DF&theme=dark&hide_border=false)  ![Miguel-V-DF's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-V-DF&theme=dark&show_icons=true&hide_border=true&layout=compact) <br> <br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
