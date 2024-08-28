@@ -1,14 +1,14 @@
 
 # About Me:
-My name is Miguel Vitta and I am in the midst of a career transition, aiming to turn my passion for programming from a hobby into a full-time profession. My goal is to become a Full-Stack Developer. 
+My name is Miguel Vitta, and I am currently transitioning my passion for programming from a hobby into a full-time career, with the goal of becoming a Full-Stack Developer. <br> <br>
 
-I am on the first period of the Computer Science graduation,and I am really enjoying learning all the base of algorithms and logic, as well as the basics of circuits and the theory on the Engineering of Software and I love learning it in C.
+I am in the first period of my Computer Science degree and thoroughly enjoy learning the foundational aspects of algorithms, logic, circuits, and Software Engineering theory, especially in C.<br> <br>
 
-I am also studying outside the university curriculum, currently focusing on the base of Logic and the fundamentals. I did learn how to create basic sites, with HTML, CSS and a little of JavaScript and PHP, and also know the basics on APIs with Node.js. <br> <br>
+Outside of my university studies, I am furthering my knowledge by focusing on the fundamentals of logic and programming. I've already learned how to create basic websites using HTML, CSS, and a bit of JavaScript and PHP, and I have a foundational understanding of APIs with Node.js.<br> <br>
 
-I am deeply committed to learning not only the technologies I have already started but also exploring new ones. I also enjoy other facets of technology, and use Linux and know the basics of terminal and scripting, as well as making my own home server using a old computer. <br> <br>
+I am deeply committed to continuously expanding my skills, exploring both the technologies I'm already familiar with and new ones. I'm also passionate about other facets of technology—I use Linux, understand the basics of terminal commands and scripting, and have even set up my own home server using an old computer. <br> <br>
 
-In addition to my professional pursuits, I am a person of quiet habits who values spending quality time with my wife and children during my free time. <br> <br>
+In my free time, I enjoy quiet moments with my wife and children, balancing my professional pursuits with quality family time. <br> <br>
 
 
 ## 🌐 Socials:
