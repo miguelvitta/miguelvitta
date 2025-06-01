@@ -11,7 +11,6 @@ I am deeply committed to continuously expanding my skills, exploring both the te
 In my free time, I enjoy quiet moments with my wife and children, balancing my professional pursuits with quality family time. <br> <br>
 
 ![miguelvitta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelvitta&theme=dark&hide_border=false)  ![miguelvitta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvitta&theme=dark&show_icons=true&hide_border=true&layout=compact) 
-![miguelvitta's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelvitta&show_icons=true&theme=transparent)
 <br> <br>
 
 
