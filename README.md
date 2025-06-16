@@ -1,14 +1,19 @@
 
-# About Me:
-My name is Miguel Vitta, and I am currently transitioning my passion for programming from a hobby into a full-time career, with the goal of becoming a Full-Stack Developer. <br> <br>
+# About Me: <br>
+Hi, I'm Miguel Vitta — currently working in Technical Support, where I assist users and help resolve software-related issues, while transitioning my passion for programming into a full-time career as a Full-Stack Developer.
 
-I am in the first period of my Computer Science degree and thoroughly enjoy learning the foundational aspects of algorithms, logic, circuits, and Software Engineering theory, especially in C.<br> <br>
+I’m finishing the second semester of my Computer Science degree, where I’m building a strong foundation in algorithms and data structures, logic, calculus, and Software Engineering theory. I have a particular interest in C programming for its low-level insights into how systems work.
 
-Outside of my university studies, I am furthering my knowledge by focusing on the fundamentals of logic and programming. I've already learned how to create basic websites using HTML, CSS, and a bit of JavaScript and PHP, and I have a foundational understanding of APIs with Node.js.<br> <br>
+Outside of university and work, I invest time in strengthening my skills through personal study and practical projects. I’ve built basic websites using HTML, CSS, and JavaScript, explored API development with Node.js, and started working with Java and C#.
 
-I am deeply committed to continuously expanding my skills, exploring both the technologies I'm already familiar with and new ones. I'm also passionate about other facets of technology—I use Linux, understand the basics of terminal commands and scripting. <br> <br>
+I’m also passionate about understanding how systems work under the hood. I use Linux as my main environment and enjoy learning terminal commands and scripting to automate tasks and boost productivity.
 
-In my free time, I enjoy quiet moments with my wife and children, balancing my professional pursuits with quality family time. <br> <br>
+💡 Passionate about problem-solving and continuous learning <br>
+💻 Focused on mastering full-stack fundamentals <br>
+🌱 Actively improving code structure, testing habits, and version control workflows <br>
+📚 Interested in algorithms, system design, and building useful tools <br>
+
+When I’m not coding or studying, I enjoy quiet, quality time with my wife and children, maintaining a healthy balance between personal life and professional development.
 
 ![miguelvitta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelvitta&theme=dark&hide_border=false)  ![miguelvitta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvitta&theme=dark&show_icons=true&hide_border=true&layout=compact) 
 <br> <br>
