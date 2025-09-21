@@ -2,7 +2,7 @@
 # About Me: <br>
 Hi, I'm Miguel Vitta — currently working in Technical Support, where I assist users and help resolve software-related issues, while transitioning my passion for programming into a full-time career as a Full-Stack Developer.
 
-I’m finishing the second semester of my Computer Science degree, where I’m building a strong foundation in algorithms and data structures, logic, calculus, and Software Engineering theory. I have a particular interest in C programming for its low-level insights into how systems work.
+I’m finishing the third semester of my Computer Science degree, where I’m building a strong foundation in algorithms and data structures, logic, calculus, and Software Engineering theory. I have a particular interest in C programming for its low-level insights into how systems work.
 
 Outside of university and work, I invest time in strengthening my skills through personal study and practical projects. I’ve built basic websites using HTML, CSS, and JavaScript, explored API development with Node.js, and started working with Java and C#.
 
