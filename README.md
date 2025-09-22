@@ -13,7 +13,7 @@ I’m also passionate about understanding how systems work under the hood. I use
 🌱 Actively improving code structure, testing habits, and version control workflows <br>
 📚 Interested in algorithms, system design, and building useful tools <br>
 
-When I’m not coding or studying, I enjoy quiet, quality time with my wife and children, maintaining a healthy balance between personal life and professional development.
+When I’m not programming or studying, I enjoy quiet, quality time with my wife and children, maintaining a healthy balance between personal life and professional development.
 
 ![miguelvitta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelvitta&theme=dark&hide_border=false)  ![miguelvitta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvitta&theme=dark&show_icons=true&hide_border=true&layout=compact) 
 <br> <br>
