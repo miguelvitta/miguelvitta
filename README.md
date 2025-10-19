@@ -15,7 +15,7 @@ I’m also passionate about understanding how systems work under the hood. I use
 
 When I’m not programming or studying, I enjoy quiet, quality time with my wife and children, maintaining a healthy balance between personal life and professional growth.
 
-![miguelvitta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelvitta&theme=dark&hide_border=false)  ![miguelvitta's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvitta&theme=dark&show_icons=true&hide_border=true&layout=compact) 
+![miguelvitta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelvitta&theme=dark&hide_border=false) 
 <br> <br>
 
 
