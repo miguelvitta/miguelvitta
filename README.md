@@ -17,5 +17,3 @@ Recently, my learning and projects have been focused on:
 📚 Curious about algorithms, system design, and intelligent systems  
 
 Outside of tech, I value quiet, quality time with my wife and children, keeping a healthy balance between personal life and professional growth.
-
-![miguelvitta's Streak](https://github-readme-streak-stats.herokuapp.com/?user=miguelvitta&theme=dark&hide_border=false)
