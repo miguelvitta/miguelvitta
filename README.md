@@ -1,5 +1,5 @@
 # About Me  
-Hi, I’m **Miguel Vitta**, a **Software Engineering Intern** currently working on **AI systems based on Retrieval-Augmented Generation (RAG)**, with a strong focus on **Python**, **backend development**, and **applied artificial intelligence**.
+Hi, I'm **Miguel Vitta**, a **Software Engineering Intern** currently working on **AI systems based on Retrieval-Augmented Generation (RAG)** and **autonomous AI agents**, with a strong focus on **Python**, **backend development**, and **applied artificial intelligence**.
 
 I’m pursuing a **Computer Science degree**, building a solid foundation in **algorithms**, **data structures**, **software engineering**, and **system design**. In parallel, I’ve been deepening my experience with **Python**, developing backend services, data pipelines, and integrations that connect structured and unstructured data to modern AI systems.
 
